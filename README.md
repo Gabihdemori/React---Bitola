@@ -1,19 +1,19 @@
-<<<<<<< HEAD
-# 📐 Bitola
+# Bitola - Atividade SENAI estudando React
 
-Aplicativo simples em React + Expo para calcular a bitola (espessura) de fios elétricos com base na corrente e distância.
+Calcule a bitola ideal de fios elétricos de forma rápida e precisa! Este aplicativo, desenvolvido com React Native e Expo, simplifica 
+a determinação da espessura do fio ao usar a corrente e a distância como referência.
 
-## 🔧 Funcionalidades
+## Funcionalidades
 - Entrada da corrente elétrica (A) e distância (m)
 - Cálculo da bitola adequada do fio
 - Interface intuitiva para uso rápido
 
-## 🛠️ Tecnologias Usadas
+## Tecnologias Usadas
 - React
 - Expo
 - TypeScript
 
-## ▶️ Como Executar
+## Como Executar
 ```bash
 git clone https://github.com/seu-usuario/bitola
 cd bitola
@@ -23,8 +23,5 @@ npm start
 
 Abra com o Expo Go ou use o emulador via browser.
 
-## 🖼️ Imagem
-![Bitola Screenshot](https://github.com/GuilhermeCanina/Bitola-React/blob/eb5942cd4f407e68f30b9e5c56b3ce25d455d2d7/assets/images/Captura%20de%20tela%202025-07-28%20100905.png)
-=======
-
->>>>>>> 637751c23eacce0e9e29b1c51d40941d5f35a511
+## Imagem
+![https://github.com/Gabihdemori/React---Bitola/blob/494702a26090eb0bba9e08964cab999065751910/assets/images/Bitola.png)
