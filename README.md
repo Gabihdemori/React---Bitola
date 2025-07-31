@@ -25,3 +25,4 @@ Abra com o Expo Go ou use o emulador via browser.
 
 ## Imagem
 [assets/images/Bitola.png)
+!(https://github.com/Gabihdemori/React---Bitola/tree/b8e144c9f58524039326194fccda15bf046505a4/assets/images)
