@@ -24,4 +24,4 @@ npm start
 Abra com o Expo Go ou use o emulador via browser.
 
 ## Imagem
-![https://github.com/Gabihdemori/React---Bitola/blob/494702a26090eb0bba9e08964cab999065751910/assets/images/Bitola.png)
+![/assets/images/Bitola.png)
