@@ -25,3 +25,5 @@ Abra com o Expo Go ou use o emulador via browser.
 
 ## Imagem
 ![Imagem Bitola](https://github.com/Gabihdemori/React---Bitola/tree/b8e144c9f58524039326194fccda15bf046505a4/assets/images)
+
+![Financiamento Screenshot](https://github.com/Gabihdemori/React-Financiamento/blob/971101f04a7306ff727f52502d9e41b6b4cbc154/assets/images/Financiamento.png)
