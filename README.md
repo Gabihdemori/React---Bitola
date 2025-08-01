@@ -4,9 +4,9 @@ Calcule a bitola ideal de fios elétricos de forma rápida e precisa! Este aplic
 a determinação da espessura do fio ao usar a corrente e a distância como referência.
 
 ## Funcionalidades
-- Entrada da corrente elétrica (A) e distância (m)
-- Cálculo da bitola adequada do fio
-- Interface intuitiva para uso rápido
+-Entrada de dados: Corrente elétrica (A) e distância (m).
+-Cálculo da bitola: Determinação da espessura adequada do fio.
+-Interface: Design intuitivo para uso rápido e eficiente.
 
 ## Tecnologias Usadas
 - React
