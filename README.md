@@ -16,7 +16,6 @@ a determinação da espessura do fio ao usar a corrente e a distância como refe
 ## Como Executar
 ```bash
 git clone https://github.com/seu-usuario/bitola
-cd bitola
 npm install
 npm start
 ```
